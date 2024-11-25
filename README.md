@@ -22,3 +22,5 @@ node index.js
 ```
 
 ### Загрузка в гугл таблицу может занять некоторое время
+
+Пример созданной таблицы: https://docs.google.com/spreadsheets/d/1en8PfVRMwuMoMXRKbSEf-ivAqCFKgCo7yiR2x7Qo73M
